@@ -1,3 +1,2 @@
-Hi,My name is Haruki Ohno.  
-I'm a University student.And my major is Information science and engineering.  
-Especially, I study Image processing.
+こんにちは、ご覧いただきありがとうございます。大野　陽基です。  
+自分は京都産業大学、大学院で画像処理を専門に研究を行っております。  
